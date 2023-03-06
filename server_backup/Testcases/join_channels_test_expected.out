@@ -1,0 +1,7 @@
+RESULT CHANNELS 
+RESULT JOIN channel1 1
+RESULT CHANNELS channel1
+RESULT JOIN channel1 0
+RESULT JOIN channel3 1
+RESULT JOIN channelNotExist 0
+RESULT CHANNELS channel1, channel3

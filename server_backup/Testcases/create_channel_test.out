@@ -1,0 +1,4 @@
+RESULT CREATE channel1 1
+RESULT CREATE channel2 1
+RESULT CREATE channel3 1
+RESULT CREATE channel1 0

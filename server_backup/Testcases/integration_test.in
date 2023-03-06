@@ -1,0 +1,20 @@
+REGISTER user1 password1
+REGISTER user1 password2
+LOGIN user1 password2
+LOGIN user1 password1
+LOGIN user1 password1
+CREATE channel1
+CREATE channel2
+CREATE channel3
+CREATE channel1
+CHANNELS
+JOIN channel1
+CHANNELS
+JOIN channel1
+JOIN channel3
+JOIN channelNotExist
+CHANNELS
+SAY channel1 Hello
+SAY channel2 foo
+SAY channel3 bar bar bar
+SAY channelNotExist world

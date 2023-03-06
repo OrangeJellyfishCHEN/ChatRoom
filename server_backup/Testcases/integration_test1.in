@@ -1,0 +1,7 @@
+REGISTER user1 password1
+REGISTER user2 password2
+LOGIN user2 password2
+JOIN channel1
+JOIN channel2
+JOIN channel3
+CHANNELS

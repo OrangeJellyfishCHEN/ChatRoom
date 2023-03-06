@@ -1,0 +1,4 @@
+RECV user1 channel1 Hello
+RESULT SAY 0
+RECV user1 channel3 bar bar bar
+RESULT SAY 0
